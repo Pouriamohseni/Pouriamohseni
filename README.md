@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Pouria
 - 👀 I’m interested in web and game development.
 - 🌱 I’m currently learning Next.js & C++ STL.
-- 🖼️ I have images of all my projects at the end of the README files.
+- 🖼️ I have images of all my projects at the end of the README files in each repo.
