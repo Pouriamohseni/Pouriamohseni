@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Pouria
+- 👋 Hi, I’m Pouria.
+- 🎓 UTD alumni B.S. Computer Science.
 - 👀 I’m interested in web and game development.
 - 🌱 I’m currently learning Next.js & C++ STL.
 - 🖼️ I have images of all my projects at the end of the README files in each repo.
