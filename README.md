@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pouria
+- 👀 I’m interested in web and game development.
+- 🌱 I’m currently learning C++ STL.
+- 💞️ I’m looking to collaborate on open-source projects.
