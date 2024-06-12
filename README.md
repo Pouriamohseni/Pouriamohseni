@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pouria</h1>
-<h3 align="center">A passionate Software-Engineer from Dallas, TX.</h3>
+<h3 align="center">A passionate Software-Engineer & Artist from Dallas, TX.</h3>
 
 - 🌱 I’m currently learning **C++ STL, Next.js**
 
