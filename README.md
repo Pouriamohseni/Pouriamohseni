@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pouria</h1>
 <h3 align="center">A passionate Software-Engineer & Artist from Dallas, TX.</h3>
 
-- 🌱 I’m currently learning **C++ STL, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://pouria.netlify.app/](https://pouria.netlify.app/)
 
 - 🖼️ You can find images or links to each project (if still deployed) at the end of the README files in each repo.
 
-- 📫 How to reach me **Pouriamoseni@gmail.com**
+- 📫 How to reach me **Pm79ir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
