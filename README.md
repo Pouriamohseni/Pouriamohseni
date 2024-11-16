@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software-Engineer & Artist from Dallas, TX.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://pouria.netlify.app/](https://pouria.netlify.app/)
+- 👨‍💻 My personal webpage [https://pouria.netlify.app/](https://pouria.netlify.app/)
 
 - 🖼️ You can find images or links to each project (if still deployed) at the end of the README files in each repo.
 
